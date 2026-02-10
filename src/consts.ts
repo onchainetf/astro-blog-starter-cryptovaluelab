@@ -1,5 +1,3 @@
-// Place any global data in this file.
-// You can import this data from anywhere in your site by using the `import` keyword.
-
-export const SITE_TITLE = "Astro Blog";
-export const SITE_DESCRIPTION = "Welcome to my website!";
+export const SITE_TITLE = 'Crypto Value Lab';
+export const SITE_DESCRIPTION =
+  'Research-driven analysis of crypto valuation methodologies, asset-level valuation ranges, and model robustness across market regimes.';
